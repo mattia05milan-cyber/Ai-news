@@ -1,0 +1,18 @@
+name: Notifica (09:00 Roma)
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 09:00 Roma con ora legale (estate)
+    - cron: "0 8 * * *"   # 09:00 Roma con ora solare (inverno)
+  workflow_dispatch:       # prova manuale
+jobs:
+  notifica:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/notify.py
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          CALLMEBOT_KEY: ${{ secrets.CALLMEBOT_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_ENABLED: ${{ vars.WHATSAPP_ENABLED }}
