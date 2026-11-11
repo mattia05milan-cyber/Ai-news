@@ -16,13 +16,19 @@ LEGAL = re.compile(r"(AI Act|copyright|diritto d'autore|GDPR|privacy|regolament\
 # (sezione, nome, tipo, url, filtro)  filtro: None | "ai" | "legal" (ai + legal)
 S = [
  ("legale","EU Digital Strategy","rss","https://digital-strategy.ec.europa.eu/en/rss.xml","ai"),
- ("legale","Euractiv Digital","rss","https://www.euractiv.com/sections/digital/feed/","ai"),
  ("legale","EDPB","rss","https://www.edpb.europa.eu/feed/news_en","ai"),
- ("legale","Garante Privacy","rss","https://www.garanteprivacy.it/home/rss","ai"),
  ("legale","AgID","rss","https://www.agid.gov.it/it/rss.xml","ai"),
- ("legale","AGCOM","rss","https://www.agcom.it/rss","ai"),
  ("legale","Agenda Digitale","rss","https://www.agendadigitale.eu/feed/","legal"),
  ("legale","Altalex","rss","https://www.altalex.com/rss","legal"),
+ ("legale","Google News UE","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=%22AI+Act%22+OR+%22Commissione+europea%22+intelligenza+artificiale+regole",None),
+ ("legale","Google News Garante","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=Garante+privacy+intelligenza+artificiale",None),
+ ("legale","Google News AGCOM","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=AGCOM+intelligenza+artificiale+OR+copyright",None),
+ ("legale","Google News copyright","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=copyright+%22intelligenza+artificiale%22+diritto+d%27autore",None),
+ ("marketing","Google News marketing","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=marketing+social+media+intelligenza+artificiale",None),
+ ("lavoro","Il Post Tecnologia","rss","https://www.ilpost.it/tecnologia/feed/","ai"),
+ ("lavoro","The Verge AI","rss","https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",None),
+ ("strumenti","MarkTechPost","rss","https://www.marktechpost.com/feed/",None),
+ ("creativita","Google News creativita","rss","https://news.google.com/rss/search?hl=it&gl=IT&ceid=IT:it&when:3d&q=intelligenza+artificiale+immagini+OR+video+OR+musica+generativa",None),
  ("modelli","OpenAI","rss","https://openai.com/news/rss.xml",None),
  ("modelli","Google AI","rss","https://blog.google/technology/ai/rss/",None),
  ("modelli","DeepMind","rss","https://deepmind.google/blog/rss.xml",None),
@@ -38,13 +44,10 @@ S = [
  ("finanza","Il Sole 24 Ore","rss","https://www.ilsole24ore.com/rss/finanza.xml","ai"),
  ("finanza","Finextra","rss","https://www.finextra.com/rss/headlines.aspx","ai"),
  ("marketing","Social Media Today","rss","https://www.socialmediatoday.com/feeds/news/","ai"),
- ("marketing","Search Engine Land","rss","https://searchengineland.com/feed","ai"),
- ("marketing","Mark Up","rss","https://www.mark-up.it/feed/","ai"),
  ("lavoro","Wired Italia","rss","https://www.wired.it/feed/rss","ai"),
  ("lavoro","MIT Tech Review","rss","https://www.technologyreview.com/feed/","ai"),
  ("lavoro","Il Sole 24 Ore Lavoro","rss","https://www.ilsole24ore.com/rss/norme-e-tributi.xml","ai"),
  ("creativita","Creative Bloq","rss","https://www.creativebloq.com/feeds/all","ai"),
- ("creativita","Stability AI","rss","https://stability.ai/news?format=rss",None),
 ]
 ORDER = ["legale","modelli","claude","github","strumenti","finanza","marketing","lavoro","creativita"]
 CAP = {s: 3 if s == "legale" else 2 for s in ORDER}
