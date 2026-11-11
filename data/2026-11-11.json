@@ -1,0 +1,107 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "AgID",
+  "titolo": "AgID pubblica le Linee Guida per l’adozione di IA nella Pubblica Amministrazione",
+  "link": "https://www.agid.gov.it/it/notizie/agid-pubblica-le-linee-guida-ladozione-di-ia-nella-pubblica-amministrazione",
+  "riassunto": "AgID pubblica le Linee Guida per l’adozione di IA nella Pubblica Amministrazione"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Gilbert + Tobin rethinks the business of law with AI",
+  "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "riassunto": "Gilbert + Tobin rethinks the business of law with AI"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "ChatGPT Plus for veterans and servicemembers",
+  "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+  "riassunto": "ChatGPT Plus for veterans and servicemembers"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.322",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+  "riassunto": "v2.1.322"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.321",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
+  "riassunto": "v2.1.321"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "Dodaios/ste80-humanizer: STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Techn",
+  "link": "https://github.com/Dodaios/ste80-humanizer",
+  "riassunto": "Dodaios/ste80-humanizer: STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Techn"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "yucezerey/turkish-anti-ai-skill: Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatala",
+  "link": "https://github.com/yucezerey/turkish-anti-ai-skill",
+  "riassunto": "yucezerey/turkish-anti-ai-skill: Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatala"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "Simon Willison",
+  "titolo": "Browse tools.simonwillison.net by tag",
+  "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+  "riassunto": "Browse tools.simonwillison.net by tag"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "Simon Willison",
+  "titolo": "llm 0.37.2",
+  "link": "https://simonwillison.net/2026/Nov/11/llm/",
+  "riassunto": "llm 0.37.2"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Il Sole 24 Ore",
+  "titolo": "Borse, il Nasdaq vola con la ripresa del settore AI. Nvidia rialza la testa",
+  "link": "https://www.ilsole24ore.com/art/borsa-ultime-notizie-indici-mercoledi-11-novembre-2026-AJRZyLCC",
+  "riassunto": "Borse, il Nasdaq vola con la ripresa del settore AI. Nvidia rialza la testa"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking",
+  "link": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Social Media Today",
+  "titolo": "Reddit tests AI-compiled product reviews",
+  "link": "https://www.socialmediatoday.com/news/reddit-tests-ai-compiled-product-reviews/874336/",
+  "riassunto": "Reddit tests AI-compiled product reviews"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Social Media Today",
+  "titolo": "TikTok updates its AI video ad tools",
+  "link": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
+  "riassunto": "TikTok updates its AI video ad tools"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "MIT Tech Review",
+  "titolo": "The Download: preserving minds and weighing open AI risks",
+  "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+  "riassunto": "The Download: preserving minds and weighing open AI risks"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "MIT Tech Review",
+  "titolo": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+  "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+  "riassunto": "The Download: Pelosi’s successor targets AI and data centers face power woes"
+ }
+]
