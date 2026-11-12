@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 
 # Con due cron (UTC) giriamo solo quando a Roma sono le 8; run manuale: FORCE=1
 if os.environ.get("FORCE") != "1" and datetime.now(ZoneInfo("Europe/Rome")).hour != 8:
-    sys.exit("Non sono le 8 a Roma: esco.")
+    (print("Non sono le 8 a Roma: esco."), sys.exit(0))
 
 NOW = datetime.now(timezone.utc)
 MAX_AGE, MAX_TOTAL, MAX_SOURCE = timedelta(days=3), 15, 3

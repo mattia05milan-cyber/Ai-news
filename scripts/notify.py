@@ -5,13 +5,13 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 env, rome = os.environ.get, datetime.now(ZoneInfo("Europe/Rome"))
-if env("FORCE") != "1" and rome.hour != 9: sys.exit("Non sono le 9 a Roma: esco.")
+if env("FORCE") != "1" and rome.hour != 9: (print("Non sono le 9 a Roma: esco."), sys.exit(0))
 files = sorted(glob.glob("data/20??-??-??.json"))
-if not files: sys.exit("Nessun file giornaliero.")
+if not files: (print("Nessun file giornaliero."), sys.exit(0))
 day = os.path.basename(files[-1])[:-5]
-if env("FORCE") != "1" and day != rome.date().isoformat(): sys.exit("Nessuna novita di oggi: niente messaggio.")
+if env("FORCE") != "1" and day != rome.date().isoformat(): (print("Nessuna novita di oggi: niente messaggio."), sys.exit(0))
 voci = json.load(open(files[-1]))
-if not voci: sys.exit("Giornata vuota: niente messaggio.")
+if not voci: (print("Giornata vuota: niente messaggio."), sys.exit(0))
 
 # 5 titoli: prima 2 legali, poi una per sezione
 scelte = [v for v in voci if v["sezione"] == "legale"][:2]

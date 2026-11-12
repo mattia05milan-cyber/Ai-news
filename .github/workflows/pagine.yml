@@ -12,9 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 scripts/build.py
+      - name: Svuota new.json (così non si riusa mai due volte)
+        run: echo '[]' > data/new.json
       - name: Salva le pagine
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add docs
+          git add docs data/new.json
           git diff --staged --quiet || (git commit -m "Aggiorna pagine archivio" && git push)
