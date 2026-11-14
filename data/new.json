@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "sezione": "legale",
+  "fonte": "Agenda Digitale",
+  "titolo": "Le nuove regole AgID sull’AI nella PA aprono un problema di responsabilità",
+  "link": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/cybersecurity/le-nuove-regole-agid-sullai-nella-pa-aprono-un-problema-di-responsabilita/"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Agenda Digitale",
+  "titolo": "AI a scuola, come costruire la tutela dei dati: cosa dice il Garante privacy",
+  "link": "https://www.agendadigitale.eu/sicurezza/privacy/ai-a-scuola-come-costruire-la-tutela-dei-dati-cosa-dice-il-garante-privacy/"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News UE",
+  "titolo": "AI Act, l’attuazione entra nel vivo: nuove scadenze per l’Intelligenza Artificiale in Europa - Calabria Europa",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVzBiVzhBVDk0QVhjUmlMZUlJeWdWY3pYRUtwN1djUl9kWERnbDFHbGZTWGJiQ2pUa2FFRWRqMTBkYVVOLXBBeUVKYm9nV1BLWl9rYmxGVldtajNGZ0o2UllUSldaODhOb1hvZUFMZ2lsdFM5aDVmekxuWUI4OW81cG5UT0dObWRVUlFhZjY5UXZrWjdNQ1E?oc=5"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Introducing ChatGPT Wallet",
+  "link": "https://openai.com/index/introducing-chatgpt-wallet"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "link": "https://openai.com/business/customer-stories/shield"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.325",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.323",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "agentes-chat/agentes-chat: Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agent",
+  "link": "https://github.com/agentes-chat/agentes-chat"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "BladesmithPanel/ai--manus: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox env",
+  "link": "https://github.com/BladesmithPanel/ai--manus"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+  "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+  "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Starling unveils AI-powered 'talk to transact' feature",
+  "link": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Axway launches platform to put banks in control of AI costs, data, and decision",
+  "link": "https://www.finextra.com/pressarticle/111659/axway-launches-platform-to-put-banks-in-control-of-ai-costs-data-and-decision?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Social Media Today",
+  "titolo": "Elon Musk’s Grok AI faces legal challenges over nudification",
+  "link": "https://www.socialmediatoday.com/news/x-formerly-twitter-faces-legal-battles-nudification-grok/874462/"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Social Media Today",
+  "titolo": "X experiments with expanded AI transparency labels",
+  "link": "https://www.socialmediatoday.com/news/x-experiments-with-expanded-ai-transparency-labels/874461/"
+ }
+]
