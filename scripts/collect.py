@@ -5,9 +5,11 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
-# Con due cron (UTC) giriamo solo quando a Roma sono le 8; run manuale: FORCE=1
-if os.environ.get("FORCE") != "1" and datetime.now(ZoneInfo("Europe/Rome")).hour != 8:
-    (print("Non sono le 8 a Roma: esco."), sys.exit(0))
+# GitHub puo ritardare i cron di ore: non guardiamo l'ora, ma facciamo UNA raccolta al giorno
+# (data/last_run.txt). Run manuale: FORCE=1 ignora il controllo.
+OGGI = datetime.now(ZoneInfo("Europe/Rome")).date().isoformat()
+if os.environ.get("FORCE") != "1" and os.path.exists("data/last_run.txt") and open("data/last_run.txt").read().strip() == OGGI:
+    print("Raccolta di oggi gia fatta: esco."); sys.exit(0)
 
 NOW = datetime.now(timezone.utc)
 MAX_AGE, MAX_TOTAL, MAX_SOURCE = timedelta(days=3), 15, 3
@@ -98,6 +100,7 @@ def main():
     for e in final: seen[e["link"]] = NOW.date().isoformat()
     cutoff = (NOW - timedelta(days=30)).date().isoformat()
     seen = {k: v for k, v in seen.items() if v >= cutoff}
+    open("data/last_run.txt", "w").write(OGGI)
     json.dump(final, open("data/new.json", "w"), ensure_ascii=False, indent=1)
     json.dump(seen, open("data/seen.json", "w"), ensure_ascii=False, indent=1)
     print(f"{len(final)} novita. Fonti con errore: {len(errors)}")
