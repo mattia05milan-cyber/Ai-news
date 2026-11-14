@@ -5,7 +5,6 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 env, rome = os.environ.get, datetime.now(ZoneInfo("Europe/Rome"))
-if env("FORCE") != "1" and rome.hour != 9: (print("Non sono le 9 a Roma: esco."), sys.exit(0))
 files = sorted(glob.glob("data/20??-??-??.json"))
 if not files: (print("Nessun file giornaliero."), sys.exit(0))
 day = os.path.basename(files[-1])[:-5]
