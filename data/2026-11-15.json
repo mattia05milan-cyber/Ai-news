@@ -1,0 +1,86 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "Google News UE",
+  "titolo": "Sistemi di intelligenza artificiale: orientamenti UE sugli obblighi di trasparenza - Ipsoa",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzJaT3hDWVhBX2p5VjR6YnNYOUxNaUx1QTBROXNqVng5aFg0Rng1R3VtajhJWC1LV1lkR21lZ0RTdGZrbGQtSENYYm5LQndNdEpjMXVKb2hLc2RENjNKUFB1Q3dUMFdvemppMTFuNWljdWVYQ19nT2pXMXpDWlphcW9CSXE2eHozcEdjNTdEbEoydVJuZG82NGg5c19EdVNuZmItS3YydUxqN290aHJYSEdPd2pZU2wxY3ByWm1ZaU9ZQjA?oc=5",
+  "riassunto": "Orientamenti UE sugli obblighi di trasparenza per i sistemi di IA"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News UE",
+  "titolo": "AI Act e intelligenza artificiale: nuove regole per le sandbox UE - MRW.it",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGs0UVNsVWNoV0UxQTAtOThIbndNRzAyaGJ2WUNTUWF6cFh1R01SMGFCR3poVkQ2NUZTTFk1ZlB4N0MzNnV4aFlFLWtmekFmSkNDejI2UEpGd2N6TTF1endZa0lCVy0xTXdYMU81aXNHRFdqTHdaNl9KMDl2X2xMUThrYWxRTEMxWm1ZMzVFQ2V6c1k?oc=5",
+  "riassunto": "AI Act: nuove regole UE per le sandbox di sperimentazione dell'IA"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "AI a scuola, come costruire la tutela dei dati: cosa dice il Garante privacy - Agenda Digitale",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTEpOcTE2LUtTZE1NbnVlcHI1ZWt1TVZCbktUX29WbnVSOVV0WmhWbTMzRWJsZXRLZ2xCQU5DQVZLX08tRDdRRzE1YXR6SDVkYzNFcVUyWTU4OWdFdHFkcVdkdnBrOWRPQUdVd202Nm1YRkVjcWltNlRFUXJxeGZHYjZPTXdpck5QdW5MU0cweUtRMERlUzNTRU9JUk9ZU1g4R0dFbWp6ek1uZVRLNG8tZUVkRUNuMm1zR2Z4SktQUjQ?oc=5",
+  "riassunto": "Il Garante privacy indica come tutelare i dati nell'uso dell'IA a scuola"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "link": "https://openai.com/business/customer-stories/amplitude",
+  "riassunto": "Amplitude rilascia migliorie al prodotto in 1-2 giorni con OpenAI"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "Google AI",
+  "titolo": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "riassunto": "Google aggiorna la Ricerca con Gemini 4 Hydrogen"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox env",
+  "link": "https://github.com/Topkiflare74/ai--manus2.0",
+  "riassunto": "Nuovo repository GitHub: agente IA generico che usa strumenti in sandbox"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "topapothecarycanal/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandb",
+  "link": "https://github.com/topapothecarycanal/ai--manus2.0",
+  "riassunto": "Nuovo repository GitHub: agente IA generico che usa strumenti in sandbox"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+  "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+  "riassunto": "Bland lancia Tofu-1, modello voce-a-voce full-duplex per le chiamate"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+  "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+  "riassunto": "Cmpnd rilascia dspy-wsp, programmazione nello spazio dei pesi per DSPy"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "An overview of Jensen Huang’s messy days",
+  "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+  "riassunto": "Panoramica dei giorni difficili di Jensen Huang (Nvidia)"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+  "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+  "riassunto": "Helen Toner (ex board OpenAI): non ci si può fidare dei CEO dell'IA"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Creative Bloq",
+  "titolo": "Nvidia chaos and why the AI industry is suddenly on the back foot",
+  "link": "https://www.creativebloq.com/news/nvidia-chaos-and-why-the-ai-industry-is-suddenly-on-the-back-foot",
+  "riassunto": "Il caos Nvidia mette in difficoltà il settore dell'IA"
+ }
+]
