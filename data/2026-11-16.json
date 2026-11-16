@@ -1,0 +1,100 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "Agenda Digitale",
+  "titolo": "Linee guida AgID sull’AI: la checklist operativa per i Comuni",
+  "link": "https://www.agendadigitale.eu/cittadinanza-digitale/linee-guida-agid-sullai-la-checklist-operativa-per-i-comuni/",
+  "riassunto": "Linee guida AgID sull'AI: checklist operativa per i Comuni"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Intelligenza artificiale nelle scuole, OK del Garante privacy - imgpress",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXo1QmlEY2NLaTZubkRvb3E1T0hfQWVmSG9USlB3OTRrcU5nOU9FaXlKVzJpZGJsVXR2YmVyYWFkYWxrUDk3LTh1UDltUmg3X0gxVG9iNnVaSS1XcDRJS1g5NUhLLWo5VXlZTUZMLTgzYkVBaDJmZkRuQUgtNjM5QWpzNmFsZFZiR1VYU05hWWl0WkxsTUNWT0U1Tm53UQ?oc=5",
+  "riassunto": "Il Garante privacy dà il via libera all'AI nelle scuole"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Intelligenza artificiale nelle scuole, via libera del Garante privacy: cosa include il decreto - iGizmo.it",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWThXQXRDZ2tnd1EyR1ZKeVlUQXhCZEpfLVhsZEtRdEZjNmlxdERMamM4Q21HNVhpT1djdFB3bUllX0ZSSDZVSUtYSVZGbTkyYTVHdkR4cUxobGktVjFLSzRORmpLUW5ZSjMzSVhxdzd5SXBwdW5saXNmUkRUeGlYbHZDb1g0aHhNT0E?oc=5",
+  "riassunto": "Il Garante privacy approva l'uso dell'AI nelle scuole: cosa prevede il decreto"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "link": "https://openai.com/index/lvmh-media-division-partnership",
+  "riassunto": "LVMH Media annuncia una partnership strategica con OpenAI"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Advancing computer-use agents for healthcare teams",
+  "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "riassunto": "OpenAI: agenti che usano il computer per i team sanitari"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/",
+  "link": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+  "riassunto": "Nuovo add-on Blender con assistente AI e server MCP"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "YellowLaborerMarket/Gemini-Config-Checker-: Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-i",
+  "link": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+  "riassunto": "Strumento per trovare configurazioni proxy per accedere a Gemini"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+  "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+  "riassunto": "Meta presenta JiTTests: test generati da LLM per bug rischiosi"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+  "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+  "riassunto": "Alibaba lancia Qwen4-Max: modello MoE da 2,4T parametri"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Google News marketing",
+  "titolo": "Avvicinare l'intelligenza artificiale alle aziende. - Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zaXhQVWtNX3p0c281ZUtQc0k5clNxRDcyZ1BWSjI2cDZZTVdPbmFDVkxlMUdCMXhmTTZGM1g0amJBZ2RZNmV5b2VyUGxZMzd4Y2k4d2V5bjI5cXdFS2FYZ1A4Ty11MjFQNUczZWVLblpaX0FZ?oc=5",
+  "riassunto": "Articolo sull'AI che avvicina le aziende (Vietnam.vn)"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Social Media Today",
+  "titolo": "How AI and social media are changing the media mix",
+  "link": "https://www.socialmediatoday.com/spons/how-ai-and-social-media-are-changing-the-media-mix/873109/",
+  "riassunto": "Come AI e social media cambiano il mix dei media"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+  "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+  "riassunto": "Audible usa l'AI per aiutare a scoprire audiolibri"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Google Maps can now create trip itineraries for you",
+  "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+  "riassunto": "Google Maps ora crea itinerari di viaggio con l'AI"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Creative Bloq",
+  "titolo": "I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure",
+  "link": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+  "riassunto": "Adobe Firefly: dubbi sull'AI considerata la scelta sicura"
+ }
+]
