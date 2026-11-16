@@ -29,7 +29,7 @@ def post(url, data=None, headers=None):
     urllib.request.urlopen(urllib.request.Request(url, data=data, headers=headers or {"User-Agent": "ai-news-bot"}), timeout=20).read()
 
 if env("NTFY_TOPIC"):
-    post("https://ntfy.sh/" + env("NTFY_TOPIC"), corpo.encode(), {"Title": "Notizie AI di oggi", "Click": link, "Tags": "newspaper", "User-Agent": "ai-news-bot"})
+    post("https://ntfy.sh/" + env("NTFY_TOPIC"), corpo.encode(), {"Title": "Notizie AI di oggi", "Click": link, "Tags": "newspaper", "Priority": "high", "User-Agent": "ai-news-bot"})
     print("ntfy inviato")
 else: print("NTFY_TOPIC mancante: ntfy saltato")
 if env("WHATSAPP_ENABLED") == "true" and env("CALLMEBOT_KEY") and env("WHATSAPP_PHONE"):
