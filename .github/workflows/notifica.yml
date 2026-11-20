@@ -4,6 +4,9 @@ on:
     branches: [main]
     paths: ["data/20*.json"]   # parte quando la routine salva il giorno
   workflow_dispatch:                  # prova manuale
+permissions:
+  contents: read
+  issues: write
 jobs:
   notifica:
     runs-on: ubuntu-latest
@@ -13,8 +16,18 @@ jobs:
         run: sleep 90
       - run: python3 scripts/notify.py
         env:
+          OUT_FILE: notifica.md
           FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           CALLMEBOT_KEY: ${{ secrets.CALLMEBOT_KEY }}
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
           WHATSAPP_ENABLED: ${{ vars.WHATSAPP_ENABLED }}
+      - name: Avviso su GitHub (email + app GitHub), indipendente da ntfy
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f notifica.md ]; then
+            url=$(gh issue create --title "Notizie AI del $(TZ=Europe/Rome date +%d/%m/%Y)" --body-file notifica.md --assignee "${{ github.repository_owner }}")
+            gh issue close "$url" --reason completed
+          fi
