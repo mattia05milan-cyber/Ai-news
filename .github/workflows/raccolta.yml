@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "17 6 * * *"   # GitHub lo fa partire spesso con ore di ritardo
     - cron: "17 7 * * *"   # seconda possibilità (la raccolta si fa una volta sola al giorno)
+  push:
+    branches: [main]
+    paths: ["data/trigger.txt"]   # la routine delle 08:00 la fa partire con un salvataggio (non ritardato)
   workflow_dispatch:       # avvio manuale dal pulsante "Run workflow"
 permissions:
   contents: write
