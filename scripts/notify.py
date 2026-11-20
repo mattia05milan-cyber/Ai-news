@@ -22,6 +22,7 @@ riga = lambda v: "• " + (v.get("riassunto") or v["titolo"])[:100]
 corpo = "\n".join(riga(v) for v in scelte)
 owner, repo = (env("GITHUB_REPOSITORY") or "utente/Ai-news").split("/")
 link = f"https://{owner}.github.io/{repo}/{day}.html"
+corpo += f"\n(inviato alle {rome:%H:%M})"
 print(corpo, link, sep="\n")
 if env("OUT_FILE"): open(env("OUT_FILE"), "w").write(corpo + "\n\n" + link + "\n")
 if env("DRY_RUN") == "1": sys.exit()
