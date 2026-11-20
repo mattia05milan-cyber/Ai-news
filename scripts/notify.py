@@ -23,6 +23,7 @@ corpo = "\n".join(riga(v) for v in scelte)
 owner, repo = (env("GITHUB_REPOSITORY") or "utente/Ai-news").split("/")
 link = f"https://{owner}.github.io/{repo}/{day}.html"
 print(corpo, link, sep="\n")
+if env("OUT_FILE"): open(env("OUT_FILE"), "w").write(corpo + "\n\n" + link + "\n")
 if env("DRY_RUN") == "1": sys.exit()
 if env("FORCE") != "1" and 6 <= rome.hour < 9:  # se e' mattina presto, aspetta le 09:00 precise
     import time; time.sleep(max(0, (rome.replace(hour=9, minute=0, second=0, microsecond=0) - rome).total_seconds()))
