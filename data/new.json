@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "sezione": "legale",
+  "fonte": "Google News AGCOM",
+  "titolo": "Bellamà, Agcom avvia una verifica sulle domande di Diaco ad Andrea Ravagnani - Abruzzo24ore",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMURrMnNMdl95R2NHZTN5M29ZRG9iMWxBUWRoSUtmUDhnMUVfLTFuRW5tR0k5Q1BTdE5vMEpxZUI4Q2ZSRDc3UTlCTDhaSW9FOEd2YUx2SzRCQWxNcGQ4SFpJbi1md1ljdzhEQUp3ejFod2h0N0JRTG14bHpjWUpjRjN5QmF3d0h2OHRMS3RmQldiS09OdDFkc2N5bDRXTFZPSHRoY2cyT1RWR1VlR0ppUWFLYmpVSHYzS3pr?oc=5"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News copyright",
+  "titolo": "AI e copyright: problemi e controversie - Bintmusic",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dGNqVjZ3VTY3bHBTWFYzNl9CVzFaS3BmVWtFQkh1aGpFUnVsTTVQa0xDSzVRM1NNZEo2ZnJjMnN3a2tfdFFtRkU0a21vVUFTZmowRThPZ2lSVmlOQ0QtNmQ4bTViZ0pLQ3R2MQ?oc=5"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Deploying Daybreak Red",
+  "link": "https://openai.com/business/learn/deploying-daybreak-red"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.329",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Anthropic SDK",
+  "titolo": "v2.11.0",
+  "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.11.0"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "bookwjitchieni1986/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works wit",
+  "link": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+ },
+ {
+  "sezione": "github",
+  "fonte": "Show HN",
+  "titolo": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+  "link": "https://news.ycombinator.com/item?id=50548660"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+  "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+  "link": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "FCA opens AI Spotlight Observatory",
+  "link": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "EmpowerFi and MetriFi bring AI-built to US credit unions",
+  "link": "https://www.finextra.com/pressarticle/111742/empowerfi-and-metrifi-bring-ai-built-to-us-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "The week everything fell apart",
+  "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Creative Bloq",
+  "titolo": "This artist-made Photoshop alternative has no AI and no subscription",
+  "link": "https://www.creativebloq.com/news/this-artist-made-photoshop-alt-has-no-ai-and-no-subscription"
+ }
+]
