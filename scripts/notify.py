@@ -24,6 +24,8 @@ owner, repo = (env("GITHUB_REPOSITORY") or "utente/Ai-news").split("/")
 link = f"https://{owner}.github.io/{repo}/{day}.html"
 print(corpo, link, sep="\n")
 if env("DRY_RUN") == "1": sys.exit()
+if env("FORCE") != "1" and 6 <= rome.hour < 9:  # se e' mattina presto, aspetta le 09:00 precise
+    import time; time.sleep(max(0, (rome.replace(hour=9, minute=0, second=0, microsecond=0) - rome).total_seconds()))
 
 def post(url, data=None, headers=None):
     urllib.request.urlopen(urllib.request.Request(url, data=data, headers=headers or {"User-Agent": "ai-news-bot"}), timeout=20).read()
