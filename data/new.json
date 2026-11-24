@@ -1,1 +1,92 @@
-[]
+[
+ {
+  "sezione": "legale",
+  "fonte": "Agenda Digitale",
+  "titolo": "Trasparenza AI Act, la Commissione pubblica l’atto ufficiale: cosa cambia",
+  "link": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/etica-regole-societa/trasparenza-ai-act-la-commissione-pubblica-latto-ufficiale-cosa-cambia/"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "OpenAI and Cisco introduce Shirudo",
+  "link": "https://openai.com/index/introducing-shirudo"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Connected intelligence for in-house legal",
+  "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.331",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Anthropic SDK",
+  "titolo": "v2.13.0",
+  "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning: Biosignal-guided reinforcement learning for LLM agents: offline organoid neural re",
+  "link": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "w1ccc/sap-data-mcp: Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud re",
+  "link": "https://github.com/w1ccc/sap-data-mcp"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+  "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+  "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Il Sole 24 Ore",
+  "titolo": "Sulle Borse si esaurisce l’effetto Huang, timori AI e dazi rubano la scena. Milano chiude a -1,8%",
+  "link": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "CommerzVentures launches €50m fund for AI fintechs",
+  "link": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Google News marketing",
+  "titolo": "Social, l’intelligenza artificiale non convince: in Italia engagement in calo fino al 24% - Agipress",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmYtUXFRNExJaEFBbmJxWTFQMDIzTjc2LUx4UHZ3ZWp4dHZSd2xxd2Q5NkIxYmhvSFhnWFZKU2Z4Ylpkcy1ZQzhqNXNLLTJwSzAyU19KQ0VBTHdGREVMUUZUeDk1UUFia19SRXNHd0tGeXJUYU1yLUU3LURsaUtKeXhvcjNKNTNsblZYS20yU3lWMUlZNWl3MzE2WnY0VExvOFU2ZFRXVjFTRWxGU25V?oc=5"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Google News marketing",
+  "titolo": "Social media: in Italia l’AI stanca il pubblico, engagement giù fino al 24% - Il Messaggero",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3d6eHNiRnZILUJkREktRTRxNnZhbFVuanNpRUNOR1plNmtrZERnQzVINmViZ2NPamxobWx1bS1UTVVaRU5HZXpoN0dNRlhhOGRNcmhJNlNrcE5OaUJqdVhNU1ZxWHBqU2pTcy1UVEd3N2d4V0VfY0VLNExHcHpSMF9nTHgxREMwZnNOd0JuVVhVOGw3SFREZk5kTm5LZFNJdkNNRTk2eVRkTXg5b3fSAbMBQVVfeXFMTmRwZ2lVME5rWDRhbmU4dC1OdkZWUHFPbW9VU2YxQTJKSVh5bERLVlRmSlZrWXJXM2VRbzFJS1Zac1JkbmM4dTFIXzM2NGFhcDFhdTBZUVhkVk0tcXgwMGNwTTV3aUJGSE1rUkFQenpkWHo2T2t3dWh0aUFMcnNuSng0QjI1TjlPRVNQczBEZTVOeFc5dnRhZW9fNEJDU0FTVUtRb2tZdUxZeXZXX0tJLXVKT3c?oc=5"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Tidal will start banning AI-generated music next month",
+  "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Jensen Huang deepfakes are the hot new AI slop",
+  "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+ }
+]
