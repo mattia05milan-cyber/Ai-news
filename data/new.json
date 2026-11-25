@@ -1,92 +1,92 @@
 [
  {
   "sezione": "legale",
-  "fonte": "Agenda Digitale",
-  "titolo": "Trasparenza AI Act, la Commissione pubblica l’atto ufficiale: cosa cambia",
-  "link": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/etica-regole-societa/trasparenza-ai-act-la-commissione-pubblica-latto-ufficiale-cosa-cambia/"
+  "fonte": "Google News Garante",
+  "titolo": "Artificial Intelligence Act, la Commissione UE pubblica i propri orientamenti sulla trasparenza: gli impatti per i DPO - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORU5OaDRIUTFHWjhlb2JlWjFYOVlHc3pEdExvM051WWxyOG8wRFloWDhoZG81NWxUNEVTSFZ1WUh0bGR5YWRqcUlidWZBR3lQcnQwLUtoN2d5NDh1cmRCZ1VGeEtmS0NEeWZINEllTUN0UGc4eFBXdlFDZUFoWnRLZXN2WWpTdUY0MW5oMm12U0Y0RENhbVg4aDFzR2ZLci1Ia0ZiZmpOTVpfdGFuTWduQ2tFd2dVUWh1eVI5NElIRlVFTl9WTGoxSjYxOXRJb0dpeGlkWlY2UW1VNzlCS1pZbmotNVFiSUZXaHd4aFVXR1NDYnAwV3d6LWhqcE1fVDA?oc=5"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Pubblicata nella Gazzetta Ufficiale dell’UE la UNI CEI EN 18286:2026, la prima norma armonizzata a sostegno dell'attuazione dell’AI Act - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbFctcm1BVkd6YzdfTXJKQkwySHN6c2lTVko5SXFHdi1USldEbXR6T1U3TjNYSWVMcURfT01ubmxfcDFyQUM2TmFsQ0NRRWlvZFhnRXc2bWMyeUVUeGFEamI2Vm1aemZvS3ZaM01rX2xBY2dWaTBqODhjQUxtNzNid3Y1N0d5X01hRDB4OW9wZ3U1RFJXbExuaGQwNjNMa2xhSldnbERiZzNVcklfckt0TkRHNHdBWmVtX1ZSbHVNWk1UVjBISWU3a3BEb1J4a0F4UFprQjdLZV9Lc1Y0SzhlRWpVM294eHVTekNZWmZtbUN6Rzg1YXVualhIeGZoMWI5LThrYl81WHFqRUFDc09WQ0R0QnI0clU?oc=5"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Black Friday sicuro: il vademecum del Garante Privacy contro le truffe - Ipsoa",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGRsWDA2NExFVWlaZ3pGUm1hdEtlVGwxeUI4NWFKOUdQOTdnUmpCVldkcXB6V3F2NVoySlpPaG1hT0EwNWpmd0ZxTWlOZmQtZXBZMU1kU1pucTAtZGhRcFpoUmFQSC1RSnBQRngtWVdRWUdrUVQ0NkNwOVBOQXNPX0tIdTgwajJKRnJDVzVGOGk1QmpmTXBuTjJlNkstdVZEWkhzOHQzbks?oc=5"
  },
  {
   "sezione": "modelli",
   "fonte": "OpenAI",
-  "titolo": "OpenAI and Cisco introduce Shirudo",
-  "link": "https://openai.com/index/introducing-shirudo"
+  "titolo": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
  },
  {
   "sezione": "modelli",
   "fonte": "OpenAI",
-  "titolo": "Connected intelligence for in-house legal",
-  "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+  "titolo": "Searching for distant planets with Astra",
+  "link": "https://openai.com/index/searching-for-distant-planets-with-astra"
  },
  {
   "sezione": "claude",
   "fonte": "Claude Code",
-  "titolo": "v2.1.331",
-  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331"
+  "titolo": "v2.1.332",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332"
  },
  {
   "sezione": "claude",
   "fonte": "Anthropic SDK",
-  "titolo": "v2.13.0",
-  "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.13.0"
+  "titolo": "v2.14.0",
+  "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0"
  },
  {
   "sezione": "github",
-  "fonte": "GitHub nuovi repo",
-  "titolo": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning: Biosignal-guided reinforcement learning for LLM agents: offline organoid neural re",
-  "link": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning"
+  "fonte": "Show HN",
+  "titolo": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+  "link": "https://hermitcrm.io/"
  },
  {
   "sezione": "github",
-  "fonte": "GitHub nuovi repo",
-  "titolo": "w1ccc/sap-data-mcp: Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud re",
-  "link": "https://github.com/w1ccc/sap-data-mcp"
+  "fonte": "Show HN",
+  "titolo": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+  "link": "https://masondata.ai/"
  },
  {
   "sezione": "strumenti",
   "fonte": "MarkTechPost",
-  "titolo": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
-  "link": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/"
+  "titolo": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+  "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/"
  },
  {
   "sezione": "strumenti",
   "fonte": "MarkTechPost",
-  "titolo": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-  "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
- },
- {
-  "sezione": "finanza",
-  "fonte": "Il Sole 24 Ore",
-  "titolo": "Sulle Borse si esaurisce l’effetto Huang, timori AI e dazi rubano la scena. Milano chiude a -1,8%",
-  "link": "https://www.ilsole24ore.com/art/borse-future-positivi-maxi-rimbalzo-nasdaq-greggio-calo-AJBRZxQC"
+  "titolo": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+  "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/"
  },
  {
   "sezione": "finanza",
   "fonte": "Finextra",
-  "titolo": "CommerzVentures launches €50m fund for AI fintechs",
-  "link": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed"
+  "titolo": "Brits wary about letting AI agents make payments for them",
+  "link": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed"
  },
  {
-  "sezione": "marketing",
-  "fonte": "Google News marketing",
-  "titolo": "Social, l’intelligenza artificiale non convince: in Italia engagement in calo fino al 24% - Agipress",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmYtUXFRNExJaEFBbmJxWTFQMDIzTjc2LUx4UHZ3ZWp4dHZSd2xxd2Q5NkIxYmhvSFhnWFZKU2Z4Ylpkcy1ZQzhqNXNLLTJwSzAyU19KQ0VBTHdGREVMUUZUeDk1UUFia19SRXNHd0tGeXJUYU1yLUU3LURsaUtKeXhvcjNKNTNsblZYS20yU3lWMUlZNWl3MzE2WnY0VExvOFU2ZFRXVjFTRWxGU25V?oc=5"
- },
- {
-  "sezione": "marketing",
-  "fonte": "Google News marketing",
-  "titolo": "Social media: in Italia l’AI stanca il pubblico, engagement giù fino al 24% - Il Messaggero",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3d6eHNiRnZILUJkREktRTRxNnZhbFVuanNpRUNOR1plNmtrZERnQzVINmViZ2NPamxobWx1bS1UTVVaRU5HZXpoN0dNRlhhOGRNcmhJNlNrcE5OaUJqdVhNU1ZxWHBqU2pTcy1UVEd3N2d4V0VfY0VLNExHcHpSMF9nTHgxREMwZnNOd0JuVVhVOGw3SFREZk5kTm5LZFNJdkNNRTk2eVRkTXg5b3fSAbMBQVVfeXFMTmRwZ2lVME5rWDRhbmU4dC1OdkZWUHFPbW9VU2YxQTJKSVh5bERLVlRmSlZrWXJXM2VRbzFJS1Zac1JkbmM4dTFIXzM2NGFhcDFhdTBZUVhkVk0tcXgwMGNwTTV3aUJGSE1rUkFQenpkWHo2T2t3dWh0aUFMcnNuSng0QjI1TjlPRVNQczBEZTVOeFc5dnRhZW9fNEJDU0FTVUtRb2tZdUxZeXZXX0tJLXVKT3c?oc=5"
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+  "link": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed"
  },
  {
   "sezione": "lavoro",
   "fonte": "The Verge AI",
-  "titolo": "Tidal will start banning AI-generated music next month",
-  "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+  "titolo": "Nothing offers a full look at its AI earbuds and charging case",
+  "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
  },
  {
   "sezione": "lavoro",
   "fonte": "The Verge AI",
-  "titolo": "Jensen Huang deepfakes are the hot new AI slop",
-  "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+  "titolo": "Amazon is reportedly in talks to end Muse AI shopping block",
+  "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
  }
 ]
