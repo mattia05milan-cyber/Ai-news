@@ -1,0 +1,107 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Artificial Intelligence Act, la Commissione UE pubblica i propri orientamenti sulla trasparenza: gli impatti per i DPO - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORU5OaDRIUTFHWjhlb2JlWjFYOVlHc3pEdExvM051WWxyOG8wRFloWDhoZG81NWxUNEVTSFZ1WUh0bGR5YWRqcUlidWZBR3lQcnQwLUtoN2d5NDh1cmRCZ1VGeEtmS0NEeWZINEllTUN0UGc4eFBXdlFDZUFoWnRLZXN2WWpTdUY0MW5oMm12U0Y0RENhbVg4aDFzR2ZLci1Ia0ZiZmpOTVpfdGFuTWduQ2tFd2dVUWh1eVI5NElIRlVFTl9WTGoxSjYxOXRJb0dpeGlkWlY2UW1VNzlCS1pZbmotNVFiSUZXaHd4aFVXR1NDYnAwV3d6LWhqcE1fVDA?oc=5",
+  "riassunto": "La Commissione UE pubblica gli orientamenti sulla trasparenza dell'AI Act: impatti per i DPO"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Pubblicata nella Gazzetta Ufficiale dell’UE la UNI CEI EN 18286:2026, la prima norma armonizzata a sostegno dell'attuazione dell’AI Act - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbFctcm1BVkd6YzdfTXJKQkwySHN6c2lTVko5SXFHdi1USldEbXR6T1U3TjNYSWVMcURfT01ubmxfcDFyQUM2TmFsQ0NRRWlvZFhnRXc2bWMyeUVUeGFEamI2Vm1aemZvS3ZaM01rX2xBY2dWaTBqODhjQUxtNzNid3Y1N0d5X01hRDB4OW9wZ3U1RFJXbExuaGQwNjNMa2xhSldnbERiZzNVcklfckt0TkRHNHdBWmVtX1ZSbHVNWk1UVjBISWU3a3BEb1J4a0F4UFprQjdLZV9Lc1Y0SzhlRWpVM294eHVTekNZWmZtbUN6Rzg1YXVualhIeGZoMWI5LThrYl81WHFqRUFDc09WQ0R0QnI0clU?oc=5",
+  "riassunto": "Pubblicata in Gazzetta UE la norma UNI CEI EN 18286:2026, prima norma armonizzata per l'AI Act"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Black Friday sicuro: il vademecum del Garante Privacy contro le truffe - Ipsoa",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGRsWDA2NExFVWlaZ3pGUm1hdEtlVGwxeUI4NWFKOUdQOTdnUmpCVldkcXB6V3F2NVoySlpPaG1hT0EwNWpmd0ZxTWlOZmQtZXBZMU1kU1pucTAtZGhRcFpoUmFQSC1RSnBQRngtWVdRWUdrUVQ0NkNwOVBOQXNPX0tIdTgwajJKRnJDVzVGOGk1QmpmTXBuTjJlNkstdVZEWkhzOHQzbks?oc=5",
+  "riassunto": "Il Garante Privacy pubblica un vademecum per un Black Friday sicuro contro le truffe"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+  "riassunto": "OpenAI: i modelli GPT-6 mostrano capacità intrinseche nella progettazione di proteine"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "Searching for distant planets with Astra",
+  "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "riassunto": "OpenAI presenta Astra, usato per cercare pianeti lontani"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Claude Code",
+  "titolo": "v2.1.332",
+  "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
+  "riassunto": "Nuova versione di Claude Code (v2.1.332)"
+ },
+ {
+  "sezione": "claude",
+  "fonte": "Anthropic SDK",
+  "titolo": "v2.14.0",
+  "link": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.14.0",
+  "riassunto": "Nuova versione dell'SDK Python di Anthropic (v2.14.0)"
+ },
+ {
+  "sezione": "github",
+  "fonte": "Show HN",
+  "titolo": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+  "link": "https://hermitcrm.io/",
+  "riassunto": "Show HN: Hermit CRM, CRM open source gratuito per lavoratori autonomi"
+ },
+ {
+  "sezione": "github",
+  "fonte": "Show HN",
+  "titolo": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+  "link": "https://masondata.ai/",
+  "riassunto": "Show HN: Mason, read-replica Postgres leggera basata su storage a colonne"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+  "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+  "riassunto": "ByteDance rilascia Laminar, framework open source per post-training con RL asincrono"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+  "link": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+  "riassunto": "Meta presenta \"Your Algorithm\": preferenze in linguaggio naturale per il ranking di Facebook"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Brits wary about letting AI agents make payments for them",
+  "link": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Sondaggio: i britannici sono diffidenti verso agenti AI che effettuano pagamenti per loro"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+  "link": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Muse di Meta arriva nel Regno Unito; la FCA avverte le aziende tech sull'AI agentica"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Nothing offers a full look at its AI earbuds and charging case",
+  "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+  "riassunto": "Nothing mostra gli auricolari AI e la custodia di ricarica al completo"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Amazon is reportedly in talks to end Muse AI shopping block",
+  "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+  "riassunto": "Amazon sarebbe in trattative per porre fine al blocco di Muse, lo shopping AI di Meta"
+ }
+]
