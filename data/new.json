@@ -1,1 +1,80 @@
-[]
+[
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "How Intentful uses dots to make more time for growth",
+  "link": "https://openai.com/business/customer-stories/intentful-dots"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "OpenAI",
+  "titolo": "How iFood scales coding agents across 15,000 repositories",
+  "link": "https://openai.com/business/customer-stories/ifood"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3",
+  "link": "https://github.com/alesha-pro/llm.asm"
+ },
+ {
+  "sezione": "github",
+  "fonte": "Show HN",
+  "titolo": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+  "link": "https://www.rchive.computer/"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+  "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "Simon Willison",
+  "titolo": "Quoting Jack Despain Zhou",
+  "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "BofE says firms need to invest to keep pace with AI threat",
+  "link": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "UK reappoints Starling and Lloyds execs as AI champions",
+  "link": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Google News marketing",
+  "titolo": "ChatGPT per il social media marketing: la guida completa - Metricool",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUXVnVU1TMVVsVXh5ZURDVk9yOTlKd0xxV2VBaEZTRGRnUmF3ZEFsckFuWE8wdDhHMXZmNjBGcXNmR1lCQ2FzTmtmem5ucXo0a0YyT1NzNV9mdw?oc=5"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+  "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Google News creativita",
+  "titolo": "Autenticità delle immagini e intelligenza artificiale, UniPa nel progetto M.A.G.I.A. finanziato dal PRIN Hybrid 2026 - Unipa",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTFKTHBWU08zMlVLSk45ekZZejE1NzdFSkdpbF9CZzlpUzlkbnVGQzBxUWU1X01WV3J6WkpQd21abmNJa0w5QnZoRWRhZXo3SU42MkhfbXpNXzJaQU1uMHZfWFdkVnRXTnZsN0xydTBKb3I0am91SjJEa2dIUm5oQzlfQURyZ3VaU1JhUEpEaFBDaUwzNURjNDVFcHRZOGNYSGw5VnFTd3E2R3FUTktZN0pIX2tiYXJHREw5ME5sWl9fUmlLbmhCYTRFXy1ock9Cdnc?oc=5"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Creative Bloq",
+  "titolo": "Crystal Palace tried to get away with posting AI and fans tore it to shreds",
+  "link": "https://www.creativebloq.com/news/crystal-palace-tried-to-get-away-with-posting-ai-and-fans-tore-it-to-shreds"
+ }
+]
