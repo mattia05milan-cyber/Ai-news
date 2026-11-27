@@ -1,0 +1,107 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "NEWSLETTER del 27 novembre 2026 - Garante Privacy",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTGkwWll4TmJpRzY2emFOZDJDRi1xOS1DUWNOeEFJdFJ3YktGNkxYaFdiN21wdmJmMFFiUkVrNjcwTFE3dkhGZDBGekl5c0xvQkNMdEpHbnJuTm40OHZhWEtaNWFNMTdRbWlJYUd4MDMxZl8tSk9GTHNVbDUyTXc?oc=5",
+  "riassunto": "Newsletter del Garante Privacy del 27 novembre 2026"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Le ispezioni di ACN sull’intelligenza artificiale viste da un call center (e il ruolo del DPO) - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaThSSFlCWW1GUWV1X28zaUZHRWZramFFckN3ZGFJbVBpYzdFWGszMzJubFRmaVZtZl9CdHJ3WGlIek5vYmJzRkN4c0pFWlY2SXF0UU12eHNhYzdJakV2YnBTNjdqSk41OFBmRlNVWVJmRkd0dlB6akx3VWpoRS1DdHNKM3dCZHcxTjYzR0tWWldxSE5yZTNCcWVsQ1NSQzFNb00zN0lxejU1cU8wYk1jZEZEeG90ZHAyd3dUZ1R4LUFtSWVOTWNleldnZjZpOXQ1aTlkTWpYazFVUEdSTTJ3?oc=5",
+  "riassunto": "Ispezioni ACN sull'IA viste da un call center e ruolo del DPO"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News copyright",
+  "titolo": "Chi è l’autore di un’opera generata dall’AI? Cosa cambia tra India e Usa - Agenda Digitale",
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQUVGRUJhZElXV0YzYWFaVzBZeU5lLUg5dUVQMXVBZGZ3ajZlWE03LU1QNXNvMVF2T1hwVWRRVW1KQ2dOclVuWnRWNXhrS1RZcTE0YlVGUzhhQnVQdzNFU29acWx0V0Ytam5ReDhqTmZnTUZVSjZWWE9sWUtjbERrbzhnLWVtNmlmM2tZOGFMcnhuUm1SaTFTdTlFLTFUWUpLTkVRVndxbzNEWHVkMHRCVzNXUGNaUVFfWXBtVVA5SlluczRCMnZ1NUp5T2dkOE81d083YkI4cV9lVWdqdG1ZT3FR?oc=5",
+  "riassunto": "Chi è l'autore di un'opera creata dall'IA: differenze tra India e USA"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "Hugging Face",
+  "titolo": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "link": "https://huggingface.co/blog/video-trainium3",
+  "riassunto": "Hugging Face: generare video con LTX-2.5 su chip Trainium3"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "Hugging Face",
+  "titolo": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "riassunto": "Hugging Face: dashboard di benchmark llama.cpp per AMD Ryzen e Radeon"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "duzhenxun/pop-agent: PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage mod",
+  "link": "https://github.com/duzhenxun/pop-agent",
+  "riassunto": "Repo pop-agent: interfaccia web locale per agenti di coding"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "mbzuai-oryx/LoopedWSP: Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+  "link": "https://github.com/mbzuai-oryx/LoopedWSP",
+  "riassunto": "Repo LoopedWSP: transformer scritti da LLM per ragionamento algoritmico lungo"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+  "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+  "riassunto": "nexos.ai: gateway con oltre 200 modelli, limiti di budget e governance"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+  "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+  "riassunto": "Tencent rilascia DFly2: decodifica speculativa che riusa la KV cache sparsa"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "SAP may cut 10,000 jobs to make room for AI",
+  "link": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "SAP potrebbe tagliare 10.000 posti di lavoro per fare spazio all'IA"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+  "link": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Truelayer e Papa John's: pagamento Pay by Bank con IA agentica"
+ },
+ {
+  "sezione": "marketing",
+  "fonte": "Google News marketing",
+  "titolo": "Artigianato e Intelligenza Artificiale, a Firenze formazione gratuita per 15 imprese - Agipress",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXFsczFVeVlTcXBORDFwMGpIMUVYNGNtdy1mMlYyM3k3SGluVVdXVXIxRWExQ2trclpVYTRXNURQcVlWWFpaeHQtTXhXOXdDZUJZaUllRE5MT3R5ZTVXVGx3dzM4b2lhb0ZqbGxqZmY0X0lvc25ub1JSUFlmVldob1hkSUFvb0JMbk51b20wT3Zzb1JFS3ZqMGlxQmZrT0hsWUgtai1MTWpYeGtF?oc=5",
+  "riassunto": "A Firenze formazione gratuita su IA per 15 imprese artigiane"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+  "riassunto": "Android: widget fai-da-te creati con Gemini, in stile vibe coding"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "The Verge AI",
+  "titolo": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "riassunto": "La FCC approva fino a 1 milione di satelliti SpaceX per data center IA"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Google News creativita",
+  "titolo": "Come proteggere l’arte europea dall’intelligenza artificiale - Internazionale",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3htRUxybzIxRWU2YnloZ0RMQVZEMEtUcFQ1aHI2NjJVQnNaUXZPX1JHS3FmRGNrWEV2WjhpWUhzdlNPc1lramtyRjNDOGlteFZsdHNxa1M0ZU5XVjExWG15cERPMG5RY0dxQjNGTi10N0dpVkRmS3BDWVZtd1M2enRqNUsxOGFqQlA4?oc=5",
+  "riassunto": "Come proteggere l'arte europea dall'intelligenza artificiale"
+ }
+]
