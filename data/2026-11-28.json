@@ -1,0 +1,93 @@
+[
+ {
+  "sezione": "legale",
+  "fonte": "Google News UE",
+  "titolo": "Deepfake sui social: quando bisogna dichiarare l'uso dell'IA? - La Legge per tutti",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWtfZHZnWXZyRlJZWU03cDZiV2gxRGIweVNDY013OFNVYzJFT2p5b1RvOU5UMFU1VEJZNVRHN3hTaUpoM1B0SGR1dTRmQWZXSmRyNWdFbnJPMDJtZVlaSHZxb1E1bXNVUm5sZi1rN0FKa1AxRVREVUFhWnRlUndWOEt1RXUya05Vbjd4SFJpU09sUG4xOXNYcjZLZ9IBoAFBVV95cUxOcnRmZXdQb1RxbVBYWjNFRWlncURkTjg2UHcwY2RDNzB4SlJPdTEzSDc4MG5pcEdRTHQwekpTTmMxQ0E4ZXZQUHh4bU5WVi1KQlAtVGhhVk53OE5tbmlDTDA2UnQtUkFNYnF3VGkzUUt3SjMwNFBscEtmSERGcE9IQmxMUGNuWnd3amJFRHhsT2hDQ0dibWE4MW11dmRlYWlE?oc=5",
+  "riassunto": "Come dichiarare l'uso dell'IA nei deepfake sui social, spiega La Legge per tutti"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "AI nelle Scuole: da Garante Privacy nuove regole per Intelligenza Artificiale - Actainfo",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wanhQRFlaZXFuUkM1LVpNdW05czNZYXRnZDhyMEU5QThPS3dZbU1LY1NMdjhSZXdWS0dUS0tMckdsZEplZTJGS21KWVgzTjI5dl9nMi1OZjZoVUE?oc=5",
+  "riassunto": "Il Garante Privacy detta nuove regole sull'uso dell'IA nelle scuole"
+ },
+ {
+  "sezione": "legale",
+  "fonte": "Google News Garante",
+  "titolo": "Online il Decalogo del Garante Privacy per un uso corretto del Registro elettronico nelle scuole - Federprivacy",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFZua0lNaHc2T04xaWtxazRxWkhVeHNYSHNZcWdSQWFaLXh3U2l5SlFibXFDUU9rTGoyWlZYdEMzaVA0VmRUMmI0OUtOLTFqc1loR01DZUh2Q0I5Y25YUDRKV2dJR3JXYThNTkVhOFF2eDJOQnRuX0Y1aHNZMzg2Ty1CWTFRT19hRV9fUjhRT2JaODhsQktjbXEtTTlfQkdwVFU3U1VVeE0wY21FME9SRlNsSTFEVU1PQ1g4QUtYZGRCaS15b0YyaU9xbE9tTGszZG5zMmhKSElHeldVdHlERFQ1OVdDSm9PZUE?oc=5",
+  "riassunto": "Decalogo del Garante Privacy per usare bene il registro elettronico a scuola"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "Hugging Face",
+  "titolo": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "riassunto": "Nvidia: dati aperti, fine-tuning e inferenza più veloce per Nemotron 3.5 Parse"
+ },
+ {
+  "sezione": "modelli",
+  "fonte": "Hugging Face",
+  "titolo": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "link": "https://huggingface.co/blog/training-swarms",
+  "riassunto": "Guida a costruire, addestrare e valutare sistemi multi-agente (Hugging Face)"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "Ndarrr07/pro-llm-api-hub: Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+  "link": "https://github.com/Ndarrr07/pro-llm-api-hub",
+  "riassunto": "Nuovo repository GitHub: dataset strutturato di interfacce di modelli linguistici (LLM)"
+ },
+ {
+  "sezione": "github",
+  "fonte": "GitHub nuovi repo",
+  "titolo": "titisseptian-SS/omniroute-explorer: OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+  "link": "https://github.com/titisseptian-SS/omniroute-explorer",
+  "riassunto": "Nuovo repository GitHub: OmniRoute Explorer, strumento leggero di routing ad accesso libero"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+  "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+  "riassunto": "Ant Group rilascia LingSante-3.1-flash, modello medico open-weight MoE da 560B parametri"
+ },
+ {
+  "sezione": "strumenti",
+  "fonte": "MarkTechPost",
+  "titolo": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+  "link": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+  "riassunto": "Sakana AI rilascia Namazu Small, modello da 30B basato su Nemotron 3 Nano"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
+  "link": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Salt Edge e Neumetria offrono ad agenti IA e banche una vista aggiornata dei clienti"
+ },
+ {
+  "sezione": "finanza",
+  "fonte": "Finextra",
+  "titolo": "Trade-based financial crime in 2027: Exploring threats, AI and portable trust",
+  "link": "https://www.finextra.com/event-info/651/trade-based-financial-crime-in-2027-exploring-threats-ai-and-portable-trust?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "riassunto": "Evento sui crimini finanziari legati al commercio nel 2027, tra minacce, IA e fiducia"
+ },
+ {
+  "sezione": "lavoro",
+  "fonte": "MIT Tech Review",
+  "titolo": "The Download: Better bionic hands and AI’s natural-gas boom",
+  "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+  "riassunto": "The Download (MIT): mani bioniche migliori e boom del gas naturale per l'IA"
+ },
+ {
+  "sezione": "creativita",
+  "fonte": "Creative Bloq",
+  "titolo": "\"A universe in which AI replaces folks? I don't see it\": how Adobe is protecting its creatives",
+  "link": "https://www.creativebloq.com/features/a-universe-in-which-ai-replaces-folks-i-dont-see-it-how-adobe-is-protecting-its-creatives",
+  "riassunto": "Adobe spiega come protegge i creativi: per loro l'IA non sostituirà le persone"
+ }
+]
